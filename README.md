@@ -1,13 +1,22 @@
-<div align="center">
-  <a href="https://pulsar99.com.br/">
-    <img src="./assets/brand/pulso99-overview-banner.webp" width="100%" alt="PULSO 99 — Sistema Pessoal de Corpo e Mente">
-  </a>
+<table>
+  <tr>
+    <td width="38%" align="center" valign="middle">
+      <a href="https://pulsar99.com.br/">
+        <img src="./assets/brand/pulso99-logo.png" width="270" alt="PULSO 99">
+      </a>
+    </td>
+    <td width="62%" align="left" valign="middle">
+      <h2>Prisca Sapientia.<br>Janela Primordial.</h2>
+      <p><strong>Consciência · Respiração · Cosmos · Alimentação</strong></p>
+      <p>Uma biblioteca pessoal. Tudo conectado num só lugar.</p>
+      <p><a href="https://pulsar99.com.br/"><strong>［ ABRIR O PULSO 99 ］</strong></a></p>
+    </td>
+  </tr>
+</table>
 
-  <h3>Prisca Sapientia. Janela Primordial.</h3>
-  <p><strong>Consciência · Respiração · Cosmos · Alimentação</strong></p>
-  <p>Uma biblioteca pessoal. Tudo conectado num só lugar.</p>
-  <p><a href="https://pulsar99.com.br/"><strong>［ ENTRAR NO PULSO 99 ］</strong></a></p>
-</div>
+<a href="https://pulsar99.com.br/">
+  <img src="./assets/brand/pulso99-overview-banner.webp" width="100%" alt="PULSO 99 — Sistema Pessoal de Corpo e Mente">
+</a>
 
 ## Módulos do sistema
 
