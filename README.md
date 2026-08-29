@@ -4,35 +4,6 @@
   </a>
 </p>
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://pulsar99.com.br/alimentos">
-        <img src="./assets/modules/dieta-panel.png" width="150" alt="DIETA.DAT"><br>
-        <sub><code>DIETA.DAT</code></sub>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://pulsar99.com.br/respiracao">
-        <img src="./assets/modules/respira-panel.png" width="150" alt="RESPIRA.EXE"><br>
-        <sub><code>RESPIRA.EXE</code></sub>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://pulsar99.com.br/biblioteca">
-        <img src="./assets/modules/biblioteca-panel.png" width="150" alt="BIBLIOTECA"><br>
-        <sub><code>BIBLIOTECA</code></sub>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://www.threads.com/@renat0cunha">
-        <img src="./assets/modules/notas-panel.png" width="150" alt="NOTAS.TXT"><br>
-        <sub><code>NOTAS.TXT</code></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
 <div align="center">
   <h3>PULSO 99</h3>
   <p><strong>Consciência · Respiração · Alimentação · Onchain pets</strong></p>
