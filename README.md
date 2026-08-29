@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://app.kamigotchi.io/">
-    <img src="./assets/kamigotchi/kamigotchi-banner.png" width="760" alt="Kamigotchi starting state sync">
+    <img src="./assets/kamigotchi/kamigotchi-title.png" width="760" alt="Kamigotchi">
   </a>
 </p>
 
