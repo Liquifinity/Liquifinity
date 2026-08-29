@@ -68,27 +68,29 @@ KAMI INDEX  ->  NODE  ->  START HARVEST  ->  WAIT  ->  STOP HARVEST  ->  REST
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="50%">
       <a href="https://pulsar99.com.br/alimentos">
-        <img src="./assets/modules/dieta.webp" width="116" alt="Dieta"><br>
+        <img src="./assets/modules/dieta-panel.png" width="360" alt="DIETA.DAT"><br>
         <strong>DIETA.DAT</strong>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="50%">
       <a href="https://pulsar99.com.br/respiracao">
-        <img src="./assets/modules/respiracao.webp" width="116" alt="Respiração"><br>
+        <img src="./assets/modules/respira-panel.png" width="360" alt="RESPIRA.EXE"><br>
         <strong>RESPIRA.EXE</strong>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="25%">
       <a href="https://pulsar99.com.br/biblioteca">
-        <img src="./assets/modules/biblioteca.webp" width="116" alt="Biblioteca"><br>
+        <img src="./assets/modules/biblioteca-panel.png" width="360" alt="BIBLIOTECA"><br>
         <strong>BIBLIOTECA</strong>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://www.threads.com/@renat0cunha">
-        <img src="./assets/modules/notas.webp" width="116" alt="Notas"><br>
+        <img src="./assets/modules/notas-panel.png" width="360" alt="NOTAS.TXT"><br>
         <strong>NOTAS.TXT</strong>
       </a>
     </td>
