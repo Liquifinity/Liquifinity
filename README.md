@@ -15,9 +15,13 @@
 
 <div align="center">
   <h3>Prisca Sapientia. Janela Primordial.</h3>
-  <p><strong>Consciência · Respiração · Cosmos · Alimentação</strong></p>
-  <p>Uma biblioteca pessoal. Tudo conectado num só lugar.</p>
-  <p><a href="https://pulsar99.com.br/"><strong>［ ABRIR O PULSO 99 ］</strong></a></p>
+  <p><strong>Consciência · Respiração · Cosmos · Alimentação · Kamigotchi</strong></p>
+  <p><code>PULSO 99</code> organiza estudo, prática e pequenos sistemas vivos.</p>
+  <p>
+    <a href="https://pulsar99.com.br/"><strong>［ ABRIR PULSO 99 ］</strong></a>
+    ·
+    <a href="https://prayingmantis.fun/"><strong>［ SACREDMANTIS ］</strong></a>
+  </p>
 </div>
 
 ## Módulos do sistema
@@ -54,6 +58,44 @@
     </td>
   </tr>
 </table>
+
+## Kamigotchi / Sacredmantis
+
+<table>
+  <tr>
+    <td width="20%" align="center">
+      <img src="./assets/kamigotchi/red-wing.png" width="96" alt="Kamigotchi vermelho com asas"><br>
+      <sub><code>KAMI_1320</code></sub>
+    </td>
+    <td width="20%" align="center">
+      <img src="./assets/kamigotchi/gold-shell.png" width="96" alt="Kamigotchi dourado"><br>
+      <sub><code>HARVEST</code></sub>
+    </td>
+    <td width="20%" align="center">
+      <img src="./assets/kamigotchi/cyan-shades.png" width="96" alt="Kamigotchi azul com óculos"><br>
+      <sub><code>NODE_10</code></sub>
+    </td>
+    <td width="20%" align="center">
+      <img src="./assets/kamigotchi/white-red.png" width="96" alt="Kamigotchi branco em fundo vermelho"><br>
+      <sub><code>REST</code></sub>
+    </td>
+    <td width="20%" align="center">
+      <img src="./assets/kamigotchi/white-green.png" width="96" alt="Kamigotchi branco com asa"><br>
+      <sub><code>LOOP</code></sub>
+    </td>
+  </tr>
+</table>
+
+```text
+┌──────────────────────────── SACREDMANTIS.EXE ────────────────────────────┐
+│  KAMI INDEX → NODE → START HARVEST → WAIT → STOP HARVEST → REST → LOOP   │
+│  status: onchain · network: yominet · mode: individual cycles            │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+| Play | Game | Repo |
+|:--|:--|:--|
+| [Abrir automação](https://prayingmantis.fun/) | [app.kamigotchi.io](https://app.kamigotchi.io/) | [kamigotchi-lifestyle](https://github.com/Liquifinity/kamigotchi-lifestyle) |
 
 ## Núcleo OKINAVI
 
