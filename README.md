@@ -61,41 +61,63 @@
 
 ## Kamigotchi / Sacredmantis
 
+<p align="center">
+  <a href="https://app.kamigotchi.io/">
+    <img src="./assets/kamigotchi/kamigotchi-banner.png" width="720" alt="Kamigotchi starting state sync">
+  </a>
+</p>
+
+<p align="center">
+  <code>YOMINET</code> · <code>INITIA</code> · <code>ONCHAIN PET LOOP</code> · <code>SACREDMANTIS.EXE</code>
+</p>
+
 <table>
   <tr>
-    <td width="20%" align="center">
-      <img src="./assets/kamigotchi/red-wing.png" width="96" alt="Kamigotchi vermelho com asas"><br>
-      <sub><code>KAMI_1320</code></sub>
+    <td width="32%" valign="middle">
+      <pre>
+┌─ PARTY.DAT ─────────┐
+│ harvest 535 min    │
+│ wait    220 min    │
+│ mode: individual   │
+└────────────────────┘
+      </pre>
     </td>
-    <td width="20%" align="center">
-      <img src="./assets/kamigotchi/gold-shell.png" width="96" alt="Kamigotchi dourado"><br>
-      <sub><code>HARVEST</code></sub>
-    </td>
-    <td width="20%" align="center">
-      <img src="./assets/kamigotchi/cyan-shades.png" width="96" alt="Kamigotchi azul com óculos"><br>
-      <sub><code>NODE_10</code></sub>
-    </td>
-    <td width="20%" align="center">
-      <img src="./assets/kamigotchi/white-red.png" width="96" alt="Kamigotchi branco em fundo vermelho"><br>
-      <sub><code>REST</code></sub>
-    </td>
-    <td width="20%" align="center">
-      <img src="./assets/kamigotchi/white-green.png" width="96" alt="Kamigotchi branco com asa"><br>
-      <sub><code>LOOP</code></sub>
+    <td width="68%" align="center">
+      <table>
+        <tr>
+          <td align="center">
+            <img src="./assets/kamigotchi/red-wing.png" width="88" alt="Kamigotchi vermelho com asas"><br>
+            <sub><code>KAMI</code></sub>
+          </td>
+          <td align="center">
+            <img src="./assets/kamigotchi/gold-shell.png" width="88" alt="Kamigotchi dourado"><br>
+            <sub><code>NODE</code></sub>
+          </td>
+          <td align="center">
+            <img src="./assets/kamigotchi/cyan-shades.png" width="88" alt="Kamigotchi azul com óculos"><br>
+            <sub><code>SYNC</code></sub>
+          </td>
+          <td align="center">
+            <img src="./assets/kamigotchi/white-red.png" width="88" alt="Kamigotchi branco em fundo vermelho"><br>
+            <sub><code>REST</code></sub>
+          </td>
+          <td align="center">
+            <img src="./assets/kamigotchi/white-green.png" width="88" alt="Kamigotchi branco com asa"><br>
+            <sub><code>LOOP</code></sub>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
 
 ```text
-┌──────────────────────────── SACREDMANTIS.EXE ────────────────────────────┐
-│  KAMI INDEX → NODE → START HARVEST → WAIT → STOP HARVEST → REST → LOOP   │
-│  status: onchain · network: yominet · mode: individual cycles            │
-└──────────────────────────────────────────────────────────────────────────┘
+KAMI INDEX → NODE → START HARVEST → WAIT → STOP HARVEST → REST → LOOP
 ```
 
-| Play | Game | Repo |
+| Automação | Jogo | Código |
 |:--|:--|:--|
-| [Abrir automação](https://prayingmantis.fun/) | [app.kamigotchi.io](https://app.kamigotchi.io/) | [kamigotchi-lifestyle](https://github.com/Liquifinity/kamigotchi-lifestyle) |
+| [SACREDMANTIS](https://prayingmantis.fun/) | [KAMIGOTCHI](https://app.kamigotchi.io/) | [kamigotchi-lifestyle](https://github.com/Liquifinity/kamigotchi-lifestyle) |
 
 ## Núcleo OKINAVI
 
