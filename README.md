@@ -4,6 +4,35 @@
   </a>
 </p>
 
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://pulsar99.com.br/alimentos">
+        <img src="./assets/modules/dieta-panel.png" width="150" alt="DIETA.DAT"><br>
+        <sub><code>DIETA.DAT</code></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://pulsar99.com.br/respiracao">
+        <img src="./assets/modules/respira-panel.png" width="150" alt="RESPIRA.EXE"><br>
+        <sub><code>RESPIRA.EXE</code></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://pulsar99.com.br/biblioteca">
+        <img src="./assets/modules/biblioteca-panel.png" width="150" alt="BIBLIOTECA"><br>
+        <sub><code>BIBLIOTECA</code></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.threads.com/@renat0cunha">
+        <img src="./assets/modules/notas-panel.png" width="150" alt="NOTAS.TXT"><br>
+        <sub><code>NOTAS.TXT</code></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
   <h3>PULSO 99</h3>
   <p><strong>Consciência · Respiração · Alimentação · Onchain pets</strong></p>
@@ -63,39 +92,6 @@ KAMI INDEX  ->  NODE  ->  START HARVEST  ->  WAIT  ->  STOP HARVEST  ->  REST
 | `SACREDMANTIS` | ciclos individuais de Kamigotchi | [prayingmantis.fun](https://prayingmantis.fun/) |
 | `KAMIGOTCHI` | jogo onchain | [app.kamigotchi.io](https://app.kamigotchi.io/) |
 | `PULSO 99` | biblioteca e sistema pessoal | [pulsar99.com.br](https://pulsar99.com.br/) |
-
-<br>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://pulsar99.com.br/alimentos">
-        <img src="./assets/modules/dieta-panel.png" width="360" alt="DIETA.DAT"><br>
-        <strong>DIETA.DAT</strong>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://pulsar99.com.br/respiracao">
-        <img src="./assets/modules/respira-panel.png" width="360" alt="RESPIRA.EXE"><br>
-        <strong>RESPIRA.EXE</strong>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://pulsar99.com.br/biblioteca">
-        <img src="./assets/modules/biblioteca-panel.png" width="360" alt="BIBLIOTECA"><br>
-        <strong>BIBLIOTECA</strong>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://www.threads.com/@renat0cunha">
-        <img src="./assets/modules/notas-panel.png" width="360" alt="NOTAS.TXT"><br>
-        <strong>NOTAS.TXT</strong>
-      </a>
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <sub>SISTEMA ATIVO · PULSO 99 · SACREDMANTIS · 1999-∞</sub>
