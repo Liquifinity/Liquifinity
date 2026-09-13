@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Flor da Vida — metade inferior</title>
+  <desc id="desc">Metade inferior de uma Flor da Vida geométrica usada como fechamento visual do portfólio Liquifinity.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.5" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+    <clipPath id="half"><rect x="0" y="30" width="1200" height="230"/></clipPath>
+  </defs>
+  <g transform="translate(0,260) scale(1,-1)" fill="none" stroke="url(#g)" stroke-width="2.4" opacity="0.96" clip-path="url(#half)">
+    <line x1="70" y1="229" x2="405" y2="229" opacity="0.45"/>
+    <line x1="795" y1="229" x2="1130" y2="229" opacity="0.45"/>
+    <circle cx="600" cy="229" r="62"/>
+    <circle cx="538" cy="229" r="62"/>
+    <circle cx="662" cy="229" r="62"/>
+    <circle cx="569" cy="175.3" r="62"/>
+    <circle cx="631" cy="175.3" r="62"/>
+    <circle cx="507" cy="175.3" r="62"/>
+    <circle cx="693" cy="175.3" r="62"/>
+    <circle cx="600" cy="121.6" r="62"/>
+    <circle cx="538" cy="121.6" r="62"/>
+    <circle cx="662" cy="121.6" r="62"/>
+    <circle cx="476" cy="121.6" r="62"/>
+    <circle cx="724" cy="121.6" r="62"/>
+    <circle cx="507" cy="67.9" r="62"/>
+    <circle cx="569" cy="67.9" r="62"/>
+    <circle cx="631" cy="67.9" r="62"/>
+    <circle cx="693" cy="67.9" r="62"/>
+    <circle cx="538" cy="14.2" r="62"/>
+    <circle cx="600" cy="14.2" r="62"/>
+    <circle cx="662" cy="14.2" r="62"/>
+    <circle cx="600" cy="229" r="186" opacity="0.72"/>
+    <circle cx="600" cy="229" r="218" opacity="0.28"/>
+  </g>
+  <circle cx="600" cy="31" r="4.8" fill="#8b5cf6"/>
+</svg>
