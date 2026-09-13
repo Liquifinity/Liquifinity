@@ -1,40 +1,152 @@
-<p align="center"><img src="./assets/liquifinity/hero-ptbr-v2.svg" width="760" alt="Liquifinity — Sistemas, Mundos e Inteligência"></p>
-
 <div align="center">
-  <p><strong>Tecnologia, produtos e experiências digitais organizados como um ecossistema.</strong></p>
-  <p><code>SISTEMAS</code> · <code>PESSOAS</code> · <code>MUNDOS</code> · <code>EXPERIMENTOS</code></p>
+
+# LIQUIFINITY
+
+### Produtos digitais, sistemas e experimentos construídos para uso real.
+
+Operações empresariais · autonomia digital · sistemas pessoais · mundos onchain · pesquisa aplicada
+
 </div>
 
-<br>
+---
 
-<p align="center"><a href="https://tweak-production.up.railway.app/"><img src="./assets/tweak/tweak-city-hero.svg" width="760" alt="TWEAK — Cidade Operacional de Empresas"></a></p>
-<div align="center"><h2>TWEAK — CIDADE OPERACIONAL DE EMPRESAS</h2><p><strong>Empresas viram prédios. Dados viram ambiente. Operações se tornam visíveis.</strong></p><p><a href="https://tweak-production.up.railway.app/"><strong>［ ENTRAR NA CIDADE → ］</strong></a></p></div>
+## Projeto em destaque — TWEAK
 
-<br>
+### Cidade das empresas
 
-## Sistemas
+Uma visualização operacional em que cada empresa ocupa seu próprio ambiente. A versão pública permite explorar a cidade enquanto preserva os dados internos.
 
-<table><tr>
-<td width="50%" align="center" valign="top"><a href="https://pulsar99.com.br/"><img src="./assets/brand/pulso99-system.webp" width="360" alt="PULSO 99"></a><h3>PULSO 99</h3><p>Sistema pessoal para consciência, respiração, alimentação e ferramentas.</p><p><a href="https://pulsar99.com.br/"><strong>［ ABRIR SISTEMA ］</strong></a></p></td>
-<td width="50%" align="center" valign="top"><a href="https://autonomiadigital50mais.com.br/"><img src="./assets/autonomia/autonomia-impacto.svg" width="360" alt="Autonomia Digital 50+"></a><h3>AUTONOMIA DIGITAL 50+</h3><p>Educação tecnológica para independência digital real.</p><p><a href="https://autonomiadigital50mais.com.br/"><strong>［ CONHECER O PROJETO ］</strong></a></p></td>
-</tr></table>
+<p align="center">
+  <a href="https://tweak-production.up.railway.app/">
+    <img src="./assets/tweak/tweak-cidade-real.jpg" width="760" alt="TWEAK — visualização pública real da Cidade das Empresas">
+  </a>
+</p>
 
-<br>
+<div align="center">
+  <strong>Empresas viram ambientes. Operações ganham contexto visual.</strong><br><br>
+  <a href="https://tweak-production.up.railway.app/"><strong>［ VER A CIDADE AO VIVO → ］</strong></a>
+</div>
 
-## Mundos
+---
 
-<p align="center"><a href="https://app.kamigotchi.io/"><img src="./assets/kamigotchi/kamigotchi-title.png" width="760" alt="Kamigotchi"></a></p>
-<table><tr><td width="50%"><h3>KAMIGOTCHI</h3><p>Mundo digital com criaturas, ciclos e estado persistente.</p></td><td width="50%"><h3>SACREDMANTIS</h3><p>Ciclos individuais, tempo e transições de estado.</p></td></tr></table>
+## Produtos e sistemas
 
-<br>
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://pulsar99.com.br/">
+        <img src="./assets/brand/pulso99-system.webp" width="360" alt="PULSO 99 — sistema pessoal">
+      </a>
+      <h3>PULSO 99</h3>
+      <p>Sistema pessoal que reúne consciência, respiração, alimentação, biblioteca e ferramentas em uma experiência conectada.</p>
+      <p><code>SISTEMA PESSOAL</code> · <code>BIBLIOTECA</code> · <code>PRÁTICAS</code></p>
+      <p><a href="https://pulsar99.com.br/"><strong>［ ABRIR PULSO 99 ］</strong></a></p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://autonomiadigital50mais.com.br/">
+        <img src="https://raw.githubusercontent.com/Liquifinity/autonomia-digital-50mais/main/assets/person-phone.webp" width="260" alt="Autonomia Digital 50+ — imagem real do projeto">
+      </a>
+      <h3>AUTONOMIA DIGITAL 50+</h3>
+      <p>Educação tecnológica clara, segura e acolhedora para pessoas 50+, com trilhas práticas para Android, iPhone e segurança digital.</p>
+      <p><code>APRENDIZAGEM</code> · <code>SEGURANÇA</code> · <code>AUTONOMIA</code></p>
+      <p><a href="https://autonomiadigital50mais.com.br/"><strong>［ CONHECER O PROJETO ］</strong></a></p>
+    </td>
+  </tr>
+</table>
 
-## Laboratório / Experimentos
+---
 
-<p align="center"><a href="https://github.com/Liquifinity/darkfi-faucet-lab"><img src="./assets/lab/laboratorio-impacto.svg" width="760" alt="Laboratório experimental"></a></p>
-<div align="center"><h3>DARKFI FAUCET LAB</h3><p>Pesquisa digital, infraestrutura e padrões experimentais de interação.</p><p><a href="https://github.com/Liquifinity/darkfi-faucet-lab"><strong>［ VER REPOSITÓRIO ］</strong></a></p></div>
+## Mundos e automação
 
-<br>
+<p align="center">
+  <a href="https://app.kamigotchi.io/">
+    <img src="./assets/kamigotchi/kamigotchi-title.png" width="760" alt="Kamigotchi">
+  </a>
+</p>
 
-<p align="center"><img src="./assets/liquifinity/system-map.svg" width="760" alt="Mapa de Sistemas da Liquifinity"></p>
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <img src="./assets/kamigotchi/red-wing.png" width="96" alt="Kamigotchi vermelho com asas"><br>
+      <sub><code>INÍCIO</code></sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="./assets/kamigotchi/gold-shell.png" width="96" alt="Kamigotchi dourado"><br>
+      <sub><code>NÓ</code></sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="./assets/kamigotchi/cyan-shades.png" width="96" alt="Kamigotchi ciano"><br>
+      <sub><code>SINCRONIA</code></sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="./assets/kamigotchi/white-red.png" width="96" alt="Kamigotchi branco e vermelho"><br>
+      <sub><code>REPOUSO</code></sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="./assets/kamigotchi/white-green.png" width="96" alt="Kamigotchi branco e verde"><br>
+      <sub><code>CICLO</code></sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center"><sub>LIQUIFINITY · SISTEMAS ATIVOS · 2026 · ∞</sub></p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>KAMIGOTCHI</h3>
+      <p>Mundo onchain com criaturas, ciclos de colheita e estado persistente.</p>
+      <p><a href="https://app.kamigotchi.io/"><strong>［ ABRIR KAMIGOTCHI ］</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>SACREDMANTIS</h3>
+      <p>Automação de ciclos independentes de ação, espera e repetição para Kamigotchi.</p>
+      <p><a href="https://prayingmantis.fun/"><strong>［ ABRIR SACREDMANTIS ］</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Laboratório de engenharia
+
+### DARKFI FAUCET LAB
+
+Base pública de engenharia para pesquisa de faucet em testnet DarkFi. O trabalho atual está concentrado em arquitetura, contratos e modelos reproduzíveis — não é apresentado como um faucet público em operação.
+
+```text
+Rust / WASM
+   ↓
+FaucetPool
+   ↓
+controle de top-up
+   ↓
+segurança + reprodutibilidade
+   ↓
+validação em testnet
+```
+
+`RUST` · `WASM` · `CONTRATOS` · `PRIVACIDADE` · `TESTNET` · `SEGURANÇA`
+
+<a href="https://github.com/Liquifinity/darkfi-faucet-lab"><strong>［ VER REPOSITÓRIO E PESQUISA ］</strong></a>
+
+---
+
+## Portfólio ativo
+
+| Projeto | O que estamos construindo | Acesso |
+|:--|:--|:--|
+| **TWEAK** | cidade operacional de empresas e ambientes privados | [cidade ao vivo](https://tweak-production.up.railway.app/) |
+| **PULSO 99** | sistema pessoal e biblioteca integrada | [pulsar99.com.br](https://pulsar99.com.br/) |
+| **Autonomia Digital 50+** | independência digital, aprendizagem e segurança | [site](https://autonomiadigital50mais.com.br/) |
+| **Kamigotchi** | mundo onchain com criaturas e ciclos | [app](https://app.kamigotchi.io/) |
+| **SacredMantis** | automação independente de ciclos Kamigotchi | [sistema](https://prayingmantis.fun/) |
+| **DarkFi Faucet Lab** | pesquisa pública de engenharia para faucet em testnet | [repositório](https://github.com/Liquifinity/darkfi-faucet-lab) |
+
+---
+
+<div align="center">
+
+### Construir primeiro. Mostrar o que existe. Evoluir com evidência.
+
+<sub>LIQUIFINITY · PORTFÓLIO DE PROJETOS · 2026</sub>
+
+</div>
