@@ -1,45 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1520" height="760" viewBox="0 0 1520 760" role="img" aria-labelledby="title desc">
-<title id="title">TWEAK — Business City OS</title><desc id="desc">Public preview of an isometric operational city with masked business data.</desc>
-<defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d8f2f4"/><stop offset="1" stop-color="#a9d4d9"/></linearGradient>
-<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#75dcf2"/><stop offset="1" stop-color="#259dbd"/></linearGradient>
-<linearGradient id="dark" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#081e33"/><stop offset="1" stop-color="#0e5375"/></linearGradient>
-<filter id="shadow"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#15343b" flood-opacity=".2"/></filter>
-</defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1520" height="760" viewBox="0 0 1520 760" role="img" aria-labelledby="t d">
+<title id="t">TWEAK — Cidade Operacional de Empresas</title><desc id="d">Visualização pública de uma cidade empresarial isométrica.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d8f2f4"/><stop offset="1" stop-color="#a9d4d9"/></linearGradient><linearGradient id="tower" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a2438"/><stop offset="1" stop-color="#0d789d"/></linearGradient></defs>
 <rect width="1520" height="760" rx="42" fill="url(#bg)"/>
-<g transform="translate(72 64)" font-family="Arial,Helvetica,sans-serif">
- <text x="0" y="28" font-size="18" font-weight="700" fill="#315f68" letter-spacing="4">FLAGSHIP SYSTEM</text>
- <text x="0" y="102" font-size="72" font-weight="900" fill="#103943">TWEAK</text>
- <text x="4" y="142" font-size="24" font-weight="700" fill="#32717e" letter-spacing="2">BUSINESS CITY OS</text>
- <text x="4" y="194" font-size="23" fill="#31575f">Companies become buildings.</text>
- <text x="4" y="228" font-size="23" fill="#31575f">Data becomes an environment.</text>
- <text x="4" y="262" font-size="23" fill="#31575f">Operations become visible.</text>
- <g transform="translate(0 314)">
-   <rect width="312" height="138" rx="20" fill="#ffffff" opacity=".86"/>
-   <text x="24" y="36" font-size="14" font-weight="700" fill="#6c8b91">PUBLIC PREVIEW</text>
-   <text x="24" y="70" font-size="20" font-weight="800" fill="#173d46">Revenue  R$ ****</text>
-   <text x="24" y="100" font-size="17" fill="#45676f">Orders *** · Clients ***</text>
- </g>
- <rect x="0" y="488" width="230" height="56" rx="14" fill="#103943"/><text x="115" y="524" text-anchor="middle" font-size="17" font-weight="800" fill="#fff">ENTER THE CITY →</text>
+<g font-family="Arial,Helvetica,sans-serif" transform="translate(72 72)">
+<text y="0" font-size="18" font-weight="700" fill="#315f68" letter-spacing="4">SISTEMA PRINCIPAL</text>
+<text y="82" font-size="72" font-weight="900" fill="#103943">TWEAK</text>
+<text y="125" font-size="24" font-weight="700" fill="#32717e">CIDADE OPERACIONAL DE EMPRESAS</text>
+<text y="185" font-size="23" fill="#31575f">Empresas viram prédios.</text><text y="220" font-size="23" fill="#31575f">Dados viram ambiente.</text><text y="255" font-size="23" fill="#31575f">Operações se tornam visíveis.</text>
+<rect y="310" width="320" height="135" rx="20" fill="#fff" opacity=".87"/><text x="24" y="348" font-size="14" font-weight="700" fill="#6c8b91">VISUALIZAÇÃO PÚBLICA</text><text x="24" y="385" font-size="20" font-weight="800" fill="#173d46">Faturamento R$ ****</text><text x="24" y="418" font-size="17" fill="#45676f">Pedidos *** · Clientes ***</text>
+<rect y="485" width="235" height="58" rx="14" fill="#103943"/><text x="118" y="522" text-anchor="middle" font-size="17" font-weight="800" fill="#fff">ENTRAR NA CIDADE →</text>
 </g>
-<g transform="translate(990 400)" filter="url(#shadow)">
- <polygon points="0,-250 420,-36 0,178 -420,-36" fill="#dce7e7" stroke="#91b2b7" stroke-width="3"/>
- <polygon points="0,-226 382,-32 0,162 -382,-32" fill="#52666b"/>
- <g stroke="#dfe8e8" stroke-width="3" stroke-dasharray="12 15" opacity=".85"><path d="M-342-40L0 134L342-40"/><path d="M-175-132L175 46M175-132L-175 46"/></g>
- <g fill="#f7fbfb" stroke="#afc7ca" stroke-width="2">
-  <polygon points="-174,-143 -56,-84 -174,-25 -292,-84"/><polygon points="0,-205 126,-142 0,-79 -126,-142"/><polygon points="188,-126 302,-69 188,-12 74,-69"/><polygon points="-125,14 -18,68 -125,122 -232,68"/><polygon points="126,22 234,76 126,130 18,76"/>
- </g>
- <!-- tallest -->
- <g transform="translate(0,-142)"><polygon points="0,-190 58,-161 0,-132 -58,-161" fill="#193c55"/><polygon points="-58,-161 0,-132 0,0 -58,-29" fill="url(#dark)"/><polygon points="58,-161 0,-132 0,0 58,-29" fill="#0a5b7d"/><g stroke="#37cef2" stroke-width="5"><path d="M-49-139L-5-117M-49-111L-5-89M-49-83L-5-61M-49-55L-5-33M49-139L5-117M49-111L5-89M49-83L5-61M49-55L5-33"/></g><text x="0" y="-207" text-anchor="middle" font-family="Arial" font-size="16" font-weight="900" fill="#173c45">ALFAPARF</text></g>
- <!-- santa -->
- <g transform="translate(188,-69)"><polygon points="0,-124 47,-101 0,-78 -47,-101" fill="#f8fbfc"/><polygon points="-47,-101 0,-78 0,0 -47,-23" fill="#f9fcfc"/><polygon points="47,-101 0,-78 0,0 47,-23" fill="url(#glass)"/><g fill="#e4312c"><rect x="28" y="-74" width="9" height="18"/><rect x="28" y="-44" width="9" height="18"/></g><g fill="#2049a7"><rect x="-37" y="-74" width="9" height="18"/><rect x="-37" y="-44" width="9" height="18"/></g><text x="0" y="-140" text-anchor="middle" font-family="Arial" font-size="14" font-weight="900" fill="#173c45">SANTA CLARA</text></g>
- <!-- keraton -->
- <g transform="translate(-174,-84)"><polygon points="0,-111 44,-89 0,-67 -44,-89" fill="#fff"/><polygon points="-44,-89 0,-67 0,0 -44,-22" fill="#fff"/><polygon points="44,-89 0,-67 0,0 44,-22" fill="#dff4f7"/><polygon points="-42,-75 -28,-68 -28,-16 -42,-23" fill="#e73590"/><polygon points="42,-75 28,-68 28,-16 42,-23" fill="#6938a3"/><rect x="-7" y="-49" width="14" height="12" fill="#f4c72d"/><text x="0" y="-127" text-anchor="middle" font-family="Arial" font-size="14" font-weight="900" fill="#173c45">KERATON</text></g>
- <!-- 5cinco -->
- <g transform="translate(-125,68)"><polygon points="0,-79 38,-60 0,-41 -38,-60" fill="#eef9f2"/><polygon points="-38,-60 0,-41 0,0 -38,-19" fill="#fff"/><polygon points="38,-60 0,-41 0,0 38,-19" fill="#d7f0ea"/><polygon points="-31,-47 -18,-40 -18,-8 -31,-15" fill="#32ad63"/><polygon points="31,-47 18,-40 18,-8 31,-15" fill="#32ad63"/><text x="0" y="-94" text-anchor="middle" font-family="Arial" font-size="14" font-weight="900" fill="#173c45">5CINCO</text></g>
- <!-- cora -->
- <g transform="translate(126,76)"><polygon points="0,-63 33,-47 0,-31 -33,-47" fill="#f8fbfc"/><polygon points="-33,-47 0,-31 0,0 -33,-16" fill="#fff"/><polygon points="33,-47 0,-31 0,0 33,-16" fill="#bce8f0"/><text x="0" y="-78" text-anchor="middle" font-family="Arial" font-size="14" font-weight="900" fill="#173c45">CORA</text></g>
- <g fill="#72be4c" stroke="#4f9334" stroke-width="2"><circle cx="-302" cy="-14" r="12"/><circle cx="-254" cy="10" r="10"/><circle cx="-74" cy="10" r="11"/><circle cx="74" cy="8" r="11"/><circle cx="286" cy="0" r="12"/><circle cx="-196" cy="104" r="11"/><circle cx="-56" cy="126" r="10"/><circle cx="74" cy="132" r="11"/><circle cx="218" cy="104" r="10"/></g>
+<g transform="translate(1010 395)">
+<polygon points="0,-245 405,-38 0,170 -405,-38" fill="#dfe9e9" stroke="#8faeb3" stroke-width="3"/><polygon points="0,-220 365,-34 0,151 -365,-34" fill="#52666b"/>
+<g fill="#f7fbfb" stroke="#aac4c8" stroke-width="2"><polygon points="0,-190 120,-130 0,-70 -120,-130"/><polygon points="-190,-120 -80,-65 -190,-10 -300,-65"/><polygon points="195,-112 300,-59 195,-6 90,-59"/><polygon points="-120,20 -20,70 -120,120 -220,70"/><polygon points="120,25 220,75 120,125 20,75"/></g>
+<g transform="translate(0,-130)"><polygon points="0,-180 56,-152 0,-124 -56,-152" fill="#163c54"/><polygon points="-56,-152 0,-124 0,0 -56,-28" fill="url(#tower)"/><polygon points="56,-152 0,-124 0,0 56,-28" fill="#0a5c7c"/><text x="0" y="-198" text-anchor="middle" font-family="Arial" font-size="16" font-weight="900" fill="#173c45">ALFAPARF</text></g>
+<g transform="translate(-190,-65)"><polygon points="0,-105 43,-84 0,-63 -43,-84" fill="#fff"/><polygon points="-43,-84 0,-63 0,0 -43,-21" fill="#fff"/><polygon points="43,-84 0,-63 0,0 43,-21" fill="#ef79ac"/><text x="0" y="-120" text-anchor="middle" font-family="Arial" font-size="14" font-weight="900" fill="#173c45">KERATON</text></g>
+<g transform="translate(195,-59)"><polygon points="0,-116 46,-93 0,-70 -46,-93" fill="#fff"/><polygon points="-46,-93 0,-70 0,0 -46,-23" fill="#fff"/><polygon points="46,-93 0,-70 0,0 46,-23" fill="#53c8df"/><text x="0" y="-132" text-anchor="middle" font-family="Arial" font-size="14" font-weight="900" fill="#173c45">SANTA CLARA</text></g>
+<g transform="translate(-120,70)"><polygon points="0,-75 37,-56 0,-38 -37,-56" fill="#fff"/><polygon points="-37,-56 0,-38 0,0 -37,-18" fill="#fff"/><polygon points="37,-56 0,-38 0,0 37,-18" fill="#65c48a"/><text x="0" y="-90" text-anchor="middle" font-family="Arial" font-size="14" font-weight="900" fill="#173c45">5CINCO</text></g>
+<g transform="translate(120,75)"><polygon points="0,-63 32,-47 0,-31 -32,-47" fill="#fff"/><polygon points="-32,-47 0,-31 0,0 -32,-16" fill="#fff"/><polygon points="32,-47 0,-31 0,0 32,-16" fill="#bce8f0"/><text x="0" y="-78" text-anchor="middle" font-family="Arial" font-size="14" font-weight="900" fill="#173c45">CORA</text></g>
 </g>
-<text x="74" y="716" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#51757d" letter-spacing="3">BUSINESS INTELLIGENCE · COMPANY OS · ISOMETRIC WORLD · LIVE OPERATIONS</text>
+<text x="74" y="716" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#51757d" letter-spacing="2">INTELIGÊNCIA DE NEGÓCIOS · AMBIENTES DE EMPRESA · MUNDO ISOMÉTRICO · OPERAÇÃO AO VIVO</text>
 </svg>
