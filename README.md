@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="./assets/liquifinity/hero.svg" width="760" alt="Liquifinity — Systems, Worlds, Intelligence">
+  <img src="./assets/liquifinity/hero.svg" width="760" alt="Liquifinity — Sistemas, Mundos e Inteligência">
 </p>
 
 <div align="center">
-  <p><strong>Building technology that becomes part of how people work, learn, think and move through digital systems.</strong></p>
+  <p><strong>Construindo tecnologia que passa a fazer parte de como as pessoas trabalham, aprendem, pensam e se movem por sistemas digitais.</strong></p>
   <p>
-    <code>OPERATING SYSTEMS</code> ·
-    <code>HUMAN SYSTEMS</code> ·
-    <code>ONCHAIN WORLDS</code> ·
-    <code>EXPERIMENTS</code>
+    <code>SISTEMAS OPERACIONAIS</code> ·
+    <code>SISTEMAS HUMANOS</code> ·
+    <code>MUNDOS ONCHAIN</code> ·
+    <code>EXPERIMENTOS</code>
   </p>
 </div>
 
@@ -16,20 +16,20 @@
 
 <p align="center">
   <a href="https://tweak-production.up.railway.app/">
-    <img src="./assets/tweak/tweak-city-hero.svg" width="760" alt="TWEAK — Business City OS">
+    <img src="./assets/tweak/tweak-city-hero.svg" width="760" alt="TWEAK — Cidade Operacional de Empresas">
   </a>
 </p>
 
 <div align="center">
-  <h2>TWEAK — BUSINESS CITY OS</h2>
-  <p><strong>Companies become buildings. Data becomes an environment. Operations become visible.</strong></p>
-  <p><code>BUSINESS INTELLIGENCE</code> · <code>COMPANY OS</code> · <code>ISOMETRIC WORLD</code> · <code>LIVE OPERATIONS</code></p>
-  <p><a href="https://tweak-production.up.railway.app/"><strong>［ ENTER THE CITY → ］</strong></a></p>
+  <h2>TWEAK — CIDADE OPERACIONAL DE EMPRESAS</h2>
+  <p><strong>Empresas viram prédios. Dados viram ambiente. Operações se tornam visíveis.</strong></p>
+  <p><code>INTELIGÊNCIA DE NEGÓCIOS</code> · <code>AMBIENTES DE EMPRESA</code> · <code>MUNDO ISOMÉTRICO</code> · <code>OPERAÇÃO AO VIVO</code></p>
+  <p><a href="https://tweak-production.up.railway.app/"><strong>［ ENTRAR NA CIDADE → ］</strong></a></p>
 </div>
 
 <br>
 
-## Systems
+## Sistemas
 
 <table>
   <tr>
@@ -38,15 +38,15 @@
         <img src="./assets/brand/pulso99-system.webp" width="360" alt="PULSO 99">
       </a>
       <h3>PULSO 99</h3>
-      <p><strong>Personal system for consciousness, breathing, nutrition and tools.</strong></p>
-      <p><code>PERSONAL OS</code> · <code>LIBRARY</code> · <code>RITUALS</code></p>
-      <p><a href="https://pulsar99.com.br/"><strong>［ OPEN SYSTEM ］</strong></a></p>
+      <p><strong>Sistema pessoal para consciência, respiração, alimentação e ferramentas.</strong></p>
+      <p><code>SISTEMA PESSOAL</code> · <code>BIBLIOTECA</code> · <code>RITUAIS</code></p>
+      <p><a href="https://pulsar99.com.br/"><strong>［ ABRIR SISTEMA ］</strong></a></p>
     </td>
     <td width="50%" valign="top" align="center">
       <h3>AUTONOMIA DIGITAL 50+</h3>
-      <p><strong>Technology education designed for real digital independence.</strong></p>
+      <p><strong>Educação tecnológica desenhada para independência digital real.</strong></p>
       <p>Android · iPhone · segurança digital · continuidade</p>
-      <p><code>HUMAN SYSTEM</code> · <code>LEARNING</code> · <code>SAFETY</code></p>
+      <p><code>SISTEMA HUMANO</code> · <code>APRENDIZAGEM</code> · <code>SEGURANÇA</code></p>
       <p><a href="https://autonomiadigital50mais.com.br/"><strong>［ CONHECER O PROJETO ］</strong></a></p>
     </td>
   </tr>
@@ -54,7 +54,7 @@
 
 <br>
 
-## Worlds
+## Mundos
 
 <p align="center">
   <a href="https://app.kamigotchi.io/">
@@ -63,30 +63,30 @@
 </p>
 
 <div align="center">
-  <p><code>YOMINET</code> · <code>INITIA</code> · <code>HARVEST LOOP</code> · <code>SACREDMANTIS.EXE</code></p>
+  <p><code>YOMINET</code> · <code>INITIA</code> · <code>CICLO DE COLHEITA</code> · <code>SACREDMANTIS.EXE</code></p>
 </div>
 
 <table>
   <tr>
     <td align="center" width="20%">
-      <img src="./assets/kamigotchi/red-wing.png" width="104" alt="Kamigotchi red wing"><br>
-      <sub><code>START</code></sub>
+      <img src="./assets/kamigotchi/red-wing.png" width="104" alt="Kamigotchi vermelho com asas"><br>
+      <sub><code>INICIAR</code></sub>
     </td>
     <td align="center" width="20%">
-      <img src="./assets/kamigotchi/gold-shell.png" width="104" alt="Kamigotchi gold shell"><br>
-      <sub><code>NODE</code></sub>
+      <img src="./assets/kamigotchi/gold-shell.png" width="104" alt="Kamigotchi dourado"><br>
+      <sub><code>NÓ</code></sub>
     </td>
     <td align="center" width="20%">
-      <img src="./assets/kamigotchi/cyan-shades.png" width="104" alt="Kamigotchi cyan shades"><br>
-      <sub><code>SYNC</code></sub>
+      <img src="./assets/kamigotchi/cyan-shades.png" width="104" alt="Kamigotchi ciano com óculos"><br>
+      <sub><code>SINCRONIZAR</code></sub>
     </td>
     <td align="center" width="20%">
-      <img src="./assets/kamigotchi/white-red.png" width="104" alt="Kamigotchi white red"><br>
-      <sub><code>REST</code></sub>
+      <img src="./assets/kamigotchi/white-red.png" width="104" alt="Kamigotchi branco e vermelho"><br>
+      <sub><code>REPOUSAR</code></sub>
     </td>
     <td align="center" width="20%">
-      <img src="./assets/kamigotchi/white-green.png" width="104" alt="Kamigotchi white green"><br>
-      <sub><code>LOOP</code></sub>
+      <img src="./assets/kamigotchi/white-green.png" width="104" alt="Kamigotchi branco e verde"><br>
+      <sub><code>CICLO</code></sub>
     </td>
   </tr>
 </table>
@@ -95,27 +95,27 @@
   <tr>
     <td width="50%" valign="top">
       <h3>KAMIGOTCHI</h3>
-      <p>Onchain creatures, harvest loops and persistent state.</p>
-      <p><a href="https://app.kamigotchi.io/"><strong>［ ENTER KAMIGOTCHI ］</strong></a></p>
+      <p>Criaturas onchain, ciclos de colheita e estado persistente.</p>
+      <p><a href="https://app.kamigotchi.io/"><strong>［ ENTRAR NO KAMIGOTCHI ］</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>SACREDMANTIS</h3>
-      <p>Individual cycles, timing, state transitions and ritual engine.</p>
-      <p><a href="https://prayingmantis.fun/"><strong>［ OPEN SACREDMANTIS ］</strong></a></p>
+      <p>Ciclos individuais, tempo, transições de estado e motor ritual.</p>
+      <p><a href="https://prayingmantis.fun/"><strong>［ ABRIR SACREDMANTIS ］</strong></a></p>
     </td>
   </tr>
 </table>
 
 <br>
 
-## Lab / Experiments
+## Laboratório / Experimentos
 
 <table>
   <tr>
     <td width="100%">
       <h3>DARKFI FAUCET LAB</h3>
-      <p>Privacy, crypto infrastructure and experimental interaction patterns.</p>
-      <p><a href="https://github.com/Liquifinity/darkfi-faucet-lab"><strong>［ VIEW REPOSITORY ］</strong></a></p>
+      <p>Privacidade, infraestrutura cripto e padrões experimentais de interação.</p>
+      <p><a href="https://github.com/Liquifinity/darkfi-faucet-lab"><strong>［ VER REPOSITÓRIO ］</strong></a></p>
     </td>
   </tr>
 </table>
@@ -123,21 +123,21 @@
 <br>
 
 <p align="center">
-  <img src="./assets/liquifinity/system-map.svg" width="760" alt="Liquifinity System Map">
+  <img src="./assets/liquifinity/system-map.svg" width="760" alt="Mapa de Sistemas da Liquifinity">
 </p>
 
 <br>
 
-## Live systems
+## Sistemas ativos
 
-| System | Function | Access |
+| Sistema | Função | Acesso |
 |:--|:--|:--|
-| `TWEAK` | business city operating system | [live city](https://tweak-production.up.railway.app/) |
-| `PULSO 99` | personal operating system | [pulsar99.com.br](https://pulsar99.com.br/) |
-| `AUTONOMIA DIGITAL 50+` | digital independence and learning | [site](https://autonomiadigital50mais.com.br/) |
-| `KAMIGOTCHI` | onchain world | [app.kamigotchi.io](https://app.kamigotchi.io/) |
-| `SACREDMANTIS` | individual cycle engine | [prayingmantis.fun](https://prayingmantis.fun/) |
+| `TWEAK` | cidade operacional de empresas | [abrir cidade](https://tweak-production.up.railway.app/) |
+| `PULSO 99` | sistema operacional pessoal | [pulsar99.com.br](https://pulsar99.com.br/) |
+| `AUTONOMIA DIGITAL 50+` | independência digital e aprendizagem | [site](https://autonomiadigital50mais.com.br/) |
+| `KAMIGOTCHI` | mundo onchain | [app.kamigotchi.io](https://app.kamigotchi.io/) |
+| `SACREDMANTIS` | motor de ciclos individuais | [prayingmantis.fun](https://prayingmantis.fun/) |
 
 <p align="center">
-  <sub>LIQUIFINITY · SYSTEMS ACTIVE · 2026 · ∞</sub>
+  <sub>LIQUIFINITY · SISTEMAS ATIVOS · 2026 · ∞</sub>
 </p>
