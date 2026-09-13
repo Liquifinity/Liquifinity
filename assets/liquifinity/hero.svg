@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1520" height="620" viewBox="0 0 1520 620" role="img" aria-labelledby="title desc">
-<title id="title">LIQUIFINITY — Systems, Worlds, Intelligence</title>
-<desc id="desc">A dark cinematic profile hero combining systems, business city, human technology and digital worlds.</desc>
+<title id="title">LIQUIFINITY — Sistemas, Mundos e Inteligência</title>
+<desc id="desc">Hero visual da Liquifinity combinando sistemas, cidade empresarial, tecnologia humana e mundos digitais.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071015"/><stop offset=".48" stop-color="#0b1820"/><stop offset="1" stop-color="#10242c"/></linearGradient>
   <radialGradient id="glow" cx="50%" cy="45%" r="55%"><stop offset="0" stop-color="#2fe1ff" stop-opacity=".18"/><stop offset="1" stop-color="#2fe1ff" stop-opacity="0"/></radialGradient>
@@ -14,15 +14,14 @@
   <path d="M142 0V620M332 0V620M522 0V620M712 0V620M902 0V620M1092 0V620M1282 0V620"/>
 </g>
 <g transform="translate(92 88)">
-  <circle cx="16" cy="16" r="8" fill="#6fffd7"/><text x="40" y="23" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#9dd9e1" letter-spacing="4">SYSTEMS ACTIVE</text>
+  <circle cx="16" cy="16" r="8" fill="#6fffd7"/><text x="40" y="23" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#9dd9e1" letter-spacing="4">SISTEMAS ATIVOS</text>
   <text x="0" y="132" font-family="Arial,Helvetica,sans-serif" font-size="90" font-weight="800" fill="#f3fbfc" letter-spacing="3">LIQUIFINITY</text>
-  <text x="4" y="190" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="600" fill="url(#cyan)" letter-spacing="2">SYSTEMS · WORLDS · INTELLIGENCE</text>
-  <text x="4" y="252" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#b6ccd1">Building technology that becomes part of how people</text>
-  <text x="4" y="286" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#b6ccd1">work, learn, think and move through digital systems.</text>
+  <text x="4" y="190" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="600" fill="url(#cyan)" letter-spacing="2">SISTEMAS · MUNDOS · INTELIGÊNCIA</text>
+  <text x="4" y="252" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#b6ccd1">Tecnologia que passa a fazer parte de como as pessoas</text>
+  <text x="4" y="286" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#b6ccd1">trabalham, aprendem, pensam e vivem sistemas digitais.</text>
   <rect x="0" y="338" width="252" height="58" rx="14" fill="#eefbfc"/>
-  <text x="126" y="375" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="800" fill="#0b1c22">EXPLORE SYSTEMS →</text>
+  <text x="126" y="375" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="800" fill="#0b1c22">EXPLORAR SISTEMAS →</text>
 </g>
-<!-- abstract city -->
 <g transform="translate(1090 325)">
   <ellipse cx="0" cy="92" rx="300" ry="82" fill="#35d6f0" opacity=".10" filter="url(#soft)"/>
   <polygon points="0,-168 275,-28 0,112 -275,-28" fill="#132a33" stroke="#285360" stroke-width="2"/>
@@ -37,5 +36,5 @@
   <g transform="translate(86,62)"><polygon points="0,-43 23,-32 0,-21 -23,-32" fill="#f6fbfc"/><polygon points="-23,-32 0,-21 0,0 -23,-11" fill="#ffffff"/><polygon points="23,-32 0,-21 0,0 23,-11" fill="#9eddea"/></g>
   <g fill="#76c958"><circle cx="-215" cy="6" r="10"/><circle cx="-126" cy="-7" r="8"/><circle cx="60" cy="4" r="9"/><circle cx="214" cy="10" r="10"/><circle cx="-135" cy="70" r="9"/><circle cx="145" cy="78" r="9"/></g>
 </g>
-<g transform="translate(92 555)" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#6f929a" letter-spacing="3"><text>BUSINESS SYSTEMS</text><text x="248">HUMAN SYSTEMS</text><text x="490">ONCHAIN WORLDS</text><text x="735">EXPERIMENTS</text></g>
+<g transform="translate(92 555)" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#6f929a" letter-spacing="3"><text>SISTEMAS DE NEGÓCIO</text><text x="300">SISTEMAS HUMANOS</text><text x="585">MUNDOS ONCHAIN</text><text x="835">EXPERIMENTOS</text></g>
 </svg>
