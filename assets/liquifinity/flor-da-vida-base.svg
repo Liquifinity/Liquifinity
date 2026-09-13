@@ -1,37 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="250" viewBox="0 0 520 250" role="img" aria-labelledby="title desc">
   <title id="title">Flor da Vida — metade inferior</title>
-  <desc id="desc">Metade inferior luminosa de uma Flor da Vida, identidade de fechamento do portfólio Liquifinity.</desc>
+  <desc id="desc">Metade inferior da Flor da Vida usada como fechamento do perfil Liquifinity.</desc>
   <defs>
-    <radialGradient id="halo" cx="50%" cy="8%" r="56%">
-      <stop offset="0" stop-color="#2563eb" stop-opacity="0.34"/>
-      <stop offset="0.55" stop-color="#0ea5e9" stop-opacity="0.14"/>
-      <stop offset="1" stop-color="#0ea5e9" stop-opacity="0"/>
-    </radialGradient>
     <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#7dd3fc"/>
+      <stop offset="0" stop-color="#38bdf8"/>
       <stop offset="0.5" stop-color="#dbeafe"/>
       <stop offset="1" stop-color="#60a5fa"/>
     </linearGradient>
-    <filter id="glow" x="-35%" y="-35%" width="170%" height="170%">
-      <feGaussianBlur stdDeviation="3.6" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    <filter id="glow" x="-25%" y="-25%" width="150%" height="150%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <clipPath id="bottomHalf"><rect x="340" y="12" width="520" height="288"/></clipPath>
+    <radialGradient id="halo" cx="50%" cy="0%" r="70%">
+      <stop offset="0" stop-color="#2563eb" stop-opacity="0.20"/>
+      <stop offset="0.62" stop-color="#0ea5e9" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#0ea5e9" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip"><rect x="18" y="6" width="484" height="244"/></clipPath>
   </defs>
-
-  <ellipse cx="600" cy="24" rx="315" ry="250" fill="url(#halo)"/>
-
-  <g transform="translate(0,300) scale(1,-1)" clip-path="url(#bottomHalf)" fill="none" stroke="url(#stroke)" stroke-width="2.2" filter="url(#glow)" opacity="0.98">
-    <circle cx="600" cy="288" r="228" stroke-width="3.1"/>
-    <circle cx="600" cy="288" r="209" opacity="0.72"/>
-
-    <circle cx="432" cy="288" r="56"/><circle cx="488" cy="288" r="56"/><circle cx="544" cy="288" r="56"/><circle cx="600" cy="288" r="56"/><circle cx="656" cy="288" r="56"/><circle cx="712" cy="288" r="56"/><circle cx="768" cy="288" r="56"/>
-    <circle cx="460" cy="239.5" r="56"/><circle cx="516" cy="239.5" r="56"/><circle cx="572" cy="239.5" r="56"/><circle cx="628" cy="239.5" r="56"/><circle cx="684" cy="239.5" r="56"/><circle cx="740" cy="239.5" r="56"/>
-    <circle cx="488" cy="191" r="56"/><circle cx="544" cy="191" r="56"/><circle cx="600" cy="191" r="56"/><circle cx="656" cy="191" r="56"/><circle cx="712" cy="191" r="56"/>
-    <circle cx="516" cy="142.5" r="56"/><circle cx="572" cy="142.5" r="56"/><circle cx="628" cy="142.5" r="56"/><circle cx="684" cy="142.5" r="56"/>
-    <circle cx="544" cy="94" r="56"/><circle cx="600" cy="94" r="56"/><circle cx="656" cy="94" r="56"/>
-    <circle cx="572" cy="45.5" r="56"/><circle cx="628" cy="45.5" r="56"/>
+  <ellipse cx="260" cy="10" rx="248" ry="228" fill="url(#halo)"/>
+  <g transform="translate(0,250) scale(1,-1)" clip-path="url(#clip)" fill="none" stroke="url(#stroke)" stroke-width="2" filter="url(#glow)" opacity="0.98">
+    <circle cx="260" cy="244" r="222" stroke-width="3"/>
+    <circle cx="260" cy="244" r="204" opacity="0.62"/>
+    <circle cx="92" cy="244" r="56"/><circle cx="148" cy="244" r="56"/><circle cx="204" cy="244" r="56"/><circle cx="260" cy="244" r="56"/><circle cx="316" cy="244" r="56"/><circle cx="372" cy="244" r="56"/><circle cx="428" cy="244" r="56"/>
+    <circle cx="120" cy="195.5" r="56"/><circle cx="176" cy="195.5" r="56"/><circle cx="232" cy="195.5" r="56"/><circle cx="288" cy="195.5" r="56"/><circle cx="344" cy="195.5" r="56"/><circle cx="400" cy="195.5" r="56"/>
+    <circle cx="148" cy="147" r="56"/><circle cx="204" cy="147" r="56"/><circle cx="260" cy="147" r="56"/><circle cx="316" cy="147" r="56"/><circle cx="372" cy="147" r="56"/>
+    <circle cx="176" cy="98.5" r="56"/><circle cx="232" cy="98.5" r="56"/><circle cx="288" cy="98.5" r="56"/><circle cx="344" cy="98.5" r="56"/>
+    <circle cx="204" cy="50" r="56"/><circle cx="260" cy="50" r="56"/><circle cx="316" cy="50" r="56"/>
+    <circle cx="232" cy="1.5" r="56"/><circle cx="288" cy="1.5" r="56"/>
   </g>
-
-  <line x1="372" y1="12" x2="828" y2="12" stroke="#93c5fd" stroke-width="3" opacity="0.8"/>
+  <line x1="38" y1="6" x2="482" y2="6" stroke="#93c5fd" stroke-width="3" opacity="0.9"/>
 </svg>
