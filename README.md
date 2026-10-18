@@ -2,6 +2,9 @@
 
 <img src="./assets/liquifinity/flor-da-vida-topo.svg" width="520" alt="Flor da Vida — metade superior">
 
+<details>
+<summary>Abrir portfólio</summary>
+
 <br>
 
 # LIQUIFINITY
@@ -217,6 +220,8 @@ Rust / WASM → FaucetPool → controlled top-up → validation
 <sub>LIQUIFINITY · SYSTEMS / WORLDS / EVIDENCE · 2026</sub>
 
 <br><br>
+
+</details>
 
 <img src="./assets/liquifinity/flor-da-vida-base.svg" width="520" alt="Flor da Vida — metade inferior">
 
