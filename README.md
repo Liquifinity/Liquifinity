@@ -119,45 +119,6 @@ ZERO BORDERS
 
 ---
 
-## SYSTEMS WE HAVE BUILT
-
-<br>
-
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-<a href="https://pulsar99.com.br/"><img src="./assets/brand/pulso99-system.webp" width="330" alt="PULSO 99"></a>
-<h3>PULSO 99 / OKINAVI</h3>
-<p>A personal system connecting food, breathing, study, knowledge and organization through a living interface.</p>
-<p><a href="https://pulsar99.com.br/"><strong>［ OPEN SYSTEM ］</strong></a></p>
-</td>
-<td width="50%" align="center" valign="top">
-<a href="https://autonomiadigital50mais.com.br/"><img src="https://raw.githubusercontent.com/Liquifinity/autonomia-digital-50mais/main/assets/person-phone.webp" width="235" alt="Autonomia Digital 50+"></a>
-<h3>AUTONOMIA DIGITAL 50+</h3>
-<p>Technology education designed to turn digital dependence into practical autonomy.</p>
-<p><a href="https://autonomiadigital50mais.com.br/"><strong>［ EXPLORE PROJECT ］</strong></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-<a href="https://tweak-production.up.railway.app/"><img src="./assets/tweak/tweak-cidade-real.jpg" width="360" alt="TWEAK — Cidade das Empresas"></a>
-<h3>TWEAK</h3>
-<p>Business operations represented as navigable environments. Companies become places; operational context becomes visible.</p>
-<p><a href="https://tweak-production.up.railway.app/"><strong>［ EXPLORE TWEAK ］</strong></a></p>
-</td>
-<td width="50%" align="center" valign="top">
-<a href="https://app.kamigotchi.io/"><img src="./assets/kamigotchi/kamigotchi-title.png" width="360" alt="Kamigotchi"></a>
-<h3>KAMIGOTCHI / SACREDMANTIS</h3>
-<p>Persistent digital creatures, evolving cycles and independent automation around a living game world.</p>
-<p><a href="https://app.kamigotchi.io/"><strong>［ KAMIGOTCHI ］</strong></a> · <a href="https://prayingmantis.fun/"><strong>［ SACREDMANTIS ］</strong></a></p>
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
 ## HOW WE BUILD
 
 **A project starts as a question — not as a claim.**
