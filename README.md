@@ -2,98 +2,121 @@
 
 <img src="./assets/liquifinity/flor-da-vida-topo.svg" width="520" alt="Flor da Vida — metade superior">
 
-<details>
-<summary>Abrir portfólio</summary>
-
 <br>
 
 # LIQUIFINITY
 
-### Sistemas experimentais para descoberta por máquinas, mundos computacionais e autonomia humana.
+### Independent computational laboratory.
 
-<sub>GEO · NUMERARE · SNEK RENAISSANCE · PULSO 99 · AUTONOMIA DIGITAL 50+ · DARKFI FAUCET LAB</sub>
+**We build systems, worlds and tools from first principles.**
+
+From machine discovery and deterministic runtimes to interactive worlds and human-centered software.
+
+<sub>AI DISCOVERY · COMPUTATIONAL SYSTEMS · DIGITAL WORLDS · HUMAN TOOLS</sub>
+
+<br><br>
+
+---
+
+## WHAT WE BUILD
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+<h3>MACHINE INTELLIGENCE</h3>
+<p>How can machines access, understand and represent the web?</p>
+<p><strong>GEO / CEUGEO</strong></p>
+</td>
+<td width="33%" align="center" valign="top">
+<h3>COMPUTATIONAL WORLDS</h3>
+<p>Rules become runtimes. Runtimes become worlds.</p>
+<p><strong>NUMERARE · SNEK RENAISSANCE</strong></p>
+</td>
+<td width="33%" align="center" valign="top">
+<h3>HUMAN SYSTEMS</h3>
+<p>Complex information turned into usable tools.</p>
+<p><strong>PULSO 99 · AUTONOMIA DIGITAL 50+</strong></p>
+</td>
+</tr>
+</table>
 
 <br>
 
-<details>
-<summary>Sobre</summary>
+---
+
+## CURRENT WORK
 
 <br>
+
 <div align="left">
 
-```text
-LIQUIFINITY
-├── descoberta por máquinas     → GEO / CEUGEO
-├── motores computacionais      → NUMERARE
-├── mundos e jogos              → SNEK RENAISSANCE
-├── sistemas pessoais           → PULSO 99 / OKINAVI
-├── autonomia digital           → Autonomia Digital 50+
-└── laboratórios de engenharia  → DarkFi · PROMPT · experimentos
-```
+### 01 — GEO / CEUGEO
 
-A Liquifinity é um laboratório independente de sistemas digitais.
+#### How does an AI actually see the web?
 
-Construímos produtos, motores, jogos, infraestruturas de observação e experimentos que possam sair da ideia, entrar em execução e ser confrontados com evidência real.
-
-Não tratamos protótipo como produto concluído. Não tratamos runtime como autoridade de fonte. Não transformamos ausência de evidência em certeza.
-
-</div>
-</details>
-
-<br>
-
-<details open>
-<summary>Fronteiras ativas</summary>
-
-<br>
-<div align="left">
-
-### GEO / CEUGEO
-
-Infraestrutura **evidence-first** para observar como máquinas acessam, renderizam, compreendem, descobrem, citam e representam uma entidade na web.
+Evidence-first infrastructure for observing how machines access, render, understand, discover, retrieve, cite and represent a web entity.
 
 ```text
 OBSERVATION → EVIDENCE → METHOD → INTERPRETATION → CONFIDENCE
 ```
 
-O sistema separa readiness, visibility, retrieval, citation, support, recommendation e selection. O objetivo não é produzir um "score mágico", mas preservar método, evidência e linhagem suficientes para comparar observações no tempo.
+The goal is not a magic score. The goal is to preserve enough evidence, method and lineage to make observations explainable and comparable over time.
 
-**Estado:** pesquisa e infraestrutura operacional ativa.
+`ACTIVE RESEARCH · MACHINE DISCOVERY · OBSERVATION INFRASTRUCTURE`
 
----
+<br>
 
-### NUMERARE
+### 02 — NUMERARE
 
-Motor e laboratório computacional para experiências generativas, simulação e construção de mundos.
+#### Build worlds from rules.
 
-NUMERARE mantém seus engines separados da camada de navegação pública e evolui por contratos explícitos entre runtime, linguagem, renderização e experiência.
+A computational laboratory for languages, runtimes, generative systems and experimental worlds.
 
-**BIOGENESIS** e **WORLD LAB** pertencem a essa frente experimental e permanecem apresentados como pesquisa em evolução, não como produtos encerrados.
+```text
+RULES
+  ↓
+LANGUAGE
+  ↓
+RUNTIME
+  ↓
+WORLD
+```
 
-**Estado:** laboratório ativo.
+Current research lines include **BIOGENESIS**, **WORLD LAB** and **WORLD MATH**. They remain experimental systems under active development — not finished products presented as certainty.
 
----
+`ACTIVE LAB · COMPUTATIONAL SYSTEMS · WORLD ENGINES`
 
-### SNEK RENAISSANCE
+<br>
+
+### 03 — SNEK RENAISSANCE
+
+#### An ancient game rebuilt as a deterministic 3D world.
 
 > **A new experiment with an ancient spirit.**  
 > **Borders? Just an illusion.**
 
-Jogo experimental independente para browser. A geração atual trabalha sobre um Snake 3D determinístico em uma grade toroidal, com movimento estratégico discreto e apresentação visual suave.
+A browser experiment built around a deterministic Snake core inside a toroidal three-dimensional grid.
 
-O candidato atual do core mantém autoridade de gameplay em células e orientação cardinal, separando lógica determinística de câmera e apresentação.
+```text
+9 × 9 × 9
+TOROIDAL SPACE
+DETERMINISTIC MOVEMENT
+ZERO BORDERS
+```
 
-<a href="https://github.com/Liquifinity/snekrenaissance"><strong>［ VER SNEK RENAISSANCE ］</strong></a>
+<p align="center">
+<a href="https://github.com/Liquifinity/snekrenaissance"><strong>［ ENTER SNEK RENAISSANCE ］</strong></a>
+</p>
 
-**Estado:** desenvolvimento público ativo.
+`PUBLIC · ACTIVE DEVELOPMENT · GAME / WORLD EXPERIMENT`
 
 </div>
-</details>
 
 <br>
 
-<details>
-<summary>Sistemas humanos</summary>
+---
+
+## SYSTEMS WE HAVE BUILT
 
 <br>
 
@@ -102,183 +125,98 @@ O candidato atual do core mantém autoridade de gameplay em células e orientaç
 <td width="50%" align="center" valign="top">
 <a href="https://pulsar99.com.br/"><img src="./assets/brand/pulso99-system.webp" width="330" alt="PULSO 99"></a>
 <h3>PULSO 99 / OKINAVI</h3>
-<p>Sistema pessoal que conecta alimentação, respiração, estudo, biblioteca e organização em uma interface inspirada nos softwares multimídia de 1999.</p>
-<p><a href="https://pulsar99.com.br/"><strong>［ ABRIR SISTEMA ］</strong></a></p>
+<p>A personal system connecting food, breathing, study, knowledge and organization through a living interface.</p>
+<p><a href="https://pulsar99.com.br/"><strong>［ OPEN SYSTEM ］</strong></a></p>
 </td>
 <td width="50%" align="center" valign="top">
 <a href="https://autonomiadigital50mais.com.br/"><img src="https://raw.githubusercontent.com/Liquifinity/autonomia-digital-50mais/main/assets/person-phone.webp" width="235" alt="Autonomia Digital 50+"></a>
 <h3>AUTONOMIA DIGITAL 50+</h3>
-<p>Educação tecnológica orientada à independência digital, Android, iPhone, segurança e uso consciente de tecnologia.</p>
-<p><a href="https://autonomiadigital50mais.com.br/"><strong>［ CONHECER PROJETO ］</strong></a></p>
+<p>Technology education designed to turn digital dependence into practical autonomy.</p>
+<p><a href="https://autonomiadigital50mais.com.br/"><strong>［ EXPLORE PROJECT ］</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://tweak-production.up.railway.app/"><img src="./assets/tweak/tweak-cidade-real.jpg" width="360" alt="TWEAK — Cidade das Empresas"></a>
+<h3>TWEAK</h3>
+<p>Business operations represented as navigable environments. Companies become places; operational context becomes visible.</p>
+<p><a href="https://tweak-production.up.railway.app/"><strong>［ EXPLORE TWEAK ］</strong></a></p>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://app.kamigotchi.io/"><img src="./assets/kamigotchi/kamigotchi-title.png" width="360" alt="Kamigotchi"></a>
+<h3>KAMIGOTCHI / SACREDMANTIS</h3>
+<p>Persistent digital creatures, evolving cycles and independent automation around a living game world.</p>
+<p><a href="https://app.kamigotchi.io/"><strong>［ KAMIGOTCHI ］</strong></a> · <a href="https://prayingmantis.fun/"><strong>［ SACREDMANTIS ］</strong></a></p>
 </td>
 </tr>
 </table>
 
-</details>
-
 <br>
 
-<details>
-<summary>Prompt systems / 33</summary>
+---
 
-<br>
-<div align="left">
+## HOW WE BUILD
 
-### PROMPT
-
-Pesquisa sobre prompts como infraestrutura de execução: sistemas reutilizáveis, blueprints, skills, composição e especialização por domínio.
+**A project starts as a question — not as a claim.**
 
 ```text
-PROMPT
-→ BLUEPRINT
-→ SKILL
-→ KERNEL
-→ EXECUTION
-→ EVIDENCE
+QUESTION → MODEL → PROTOTYPE → EVIDENCE → SYSTEM → ITERATION
 ```
 
-A linha **33** explora combinações estruturadas de blueprints e skills para transformar prompting isolado em arquitetura reutilizável.
-
-**Estado:** pesquisa interna ativa.
-
-</div>
-</details>
+<table>
+<tr>
+<td width="50%" align="left" valign="top">
+<h3>Working systems over presentations.</h3>
+<p>Build something that can run before describing what it supposedly does.</p>
+</td>
+<td width="50%" align="left" valign="top">
+<h3>Evidence over assumption.</h3>
+<p>An observation never becomes a larger conclusion than the evidence can support.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="left" valign="top">
+<h3>Architecture before scale.</h3>
+<p>Authority, boundaries and contracts are made explicit before complexity compounds.</p>
+</td>
+<td width="50%" align="left" valign="top">
+<h3>Experiments remain experiments.</h3>
+<p>Research in progress is presented as research in progress — not as a finished product.</p>
+</td>
+</tr>
+</table>
 
 <br>
 
-<details>
-<summary>Engenharia e pesquisa pública</summary>
+---
 
-<br>
+## PUBLIC RESEARCH
+
 <div align="left">
 
 ### DarkFi Faucet Lab
 
-Pesquisa pública para testnet DarkFi, concentrada em arquitetura, contratos, segurança e modelos reproduzíveis.
+Reproducible **Rust / WASM** engineering experiments for decentralized testnet infrastructure, focused on architecture, contracts, security and verifiable behavior.
 
 ```text
-Rust / WASM
-   ↓
-FaucetPool
-   ↓
-controle de top-up
-   ↓
-segurança + reprodutibilidade
-   ↓
-validação em testnet
+Rust / WASM → FaucetPool → controlled top-up → validation
 ```
 
-<a href="https://github.com/Liquifinity/darkfi-faucet-lab"><strong>［ VER REPOSITÓRIO ］</strong></a>
+<p align="center">
+<a href="https://github.com/Liquifinity/darkfi-faucet-lab"><strong>［ VIEW PUBLIC RESEARCH ］</strong></a>
+</p>
 
 </div>
-</details>
 
 <br>
 
-<details>
-<summary>Experimentos anteriores e sistemas construídos</summary>
+---
 
-<br>
-<div align="left">
-
-### TWEAK — Cidade das Empresas
-
-Visualização operacional em que empresas tornam-se ambientes navegáveis. A camada pública permite explorar a cidade enquanto dados internos permanecem protegidos.
-
-<a href="https://tweak-production.up.railway.app/">
-  <img src="./assets/tweak/tweak-cidade-real.jpg" width="700" alt="TWEAK — Cidade das Empresas">
-</a>
-
-<br><br>
-
-### Kamigotchi / SacredMantis
-
-<a href="https://app.kamigotchi.io/"><img src="./assets/kamigotchi/kamigotchi-title.png" width="650" alt="Kamigotchi"></a>
-
-<br><br>
-
-**Kamigotchi** — mundo digital com criaturas, ciclos e estado persistente.  
-**SacredMantis** — automação independente desses ciclos.
-
-<a href="https://app.kamigotchi.io/"><strong>［ KAMIGOTCHI ］</strong></a> · <a href="https://prayingmantis.fun/"><strong>［ SACREDMANTIS ］</strong></a>
-
-</div>
-</details>
-
-<br>
-
-<details>
-<summary>Como construímos</summary>
-
-<br>
-<div align="left">
-
-```text
-problema / hipótese
-        ↓
-modelo explícito
-        ↓
-implementação executável
-        ↓
-validação e evidência
-        ↓
-correção de arquitetura
-        ↓
-evolução
-```
-
-Princípios recorrentes:
-
-- fonte, runtime e evidência possuem papéis diferentes;
-- determinismo é usado quando o domínio exige reprodutibilidade;
-- estados desconhecidos permanecem desconhecidos até serem observados;
-- experimentos são rotulados como experimentos;
-- fronteiras entre módulos importam tanto quanto o código dentro deles;
-- uma experiência visual não deve esconder a autoridade lógica do sistema;
-- construir primeiro não significa afirmar antes de verificar.
-
-</div>
-</details>
-
-<br>
-
-<details>
-<summary>Mapa atual</summary>
-
-<br>
-
-| Frente | Sistema | Natureza |
-|:--|:--|:--|
-| Machine discovery | GEO / CEUGEO | infraestrutura + pesquisa |
-| Computational engines | NUMERARE | engine + laboratório |
-| Games / worlds | SNEK RENAISSANCE | experimento público |
-| Personal systems | PULSO 99 / OKINAVI | produto ativo |
-| Digital autonomy | Autonomia Digital 50+ | educação |
-| Prompt architecture | PROMPT / 33 | pesquisa interna |
-| Rust / WASM | DarkFi Faucet Lab | pesquisa pública |
-| Operational visualization | TWEAK | sistema construído |
-| Persistent digital worlds | Kamigotchi / SacredMantis | experimento construído |
-
-</details>
-
-<br>
-
-<details>
-<summary>Princípio</summary>
-
-<br>
-
-> **Construir. Observar. Preservar evidência. Evoluir sem fingir certeza.**
-
-Imagens de projeto representam sistemas reais. Experimentos são apresentados como experimentos. Trabalhos em validação não são tratados como produtos concluídos.
-
-</details>
-
-<br><br>
+### Build what can be tested. Preserve what can be proven. Keep exploring what remains unknown.
 
 <sub>LIQUIFINITY · SYSTEMS / WORLDS / EVIDENCE · 2026</sub>
 
-</details>
+<br><br>
 
 <img src="./assets/liquifinity/flor-da-vida-base.svg" width="520" alt="Flor da Vida — metade inferior">
 
